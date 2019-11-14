@@ -1,0 +1,14 @@
+* {
+  margin: 10px;
+  padding: 11px;
+}
+
+.imagen {
+  width: 500px;
+}
+.medalla {   
+  width: 139px;      
+  position: absolute;
+  top: 73px;
+  left: 406px;
+}
